@@ -8,9 +8,14 @@ export const Container = styled.div`
 
   form {
     width: 100%;
-    max-width: 300px;
+    max-width: 400px;
     display: flex;
     flex-direction: column;
+    background: #fff;
+    border-radius: 4px;
+    padding: 40px 30px;
+    margin: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 
     input {
       margin-top: 20px;
@@ -34,6 +39,7 @@ export const Container = styled.div`
       font-size: 16px;
       background: #df4723;
       color: #fff;
+      cursor: pointer;
     }
   }
 `;
