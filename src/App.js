@@ -1,12 +1,12 @@
 import React from "react";
 import GlobalStyle from "./styles/globals";
 
-import Login from "./pages/Login/index";
+import Routes from "./routes";
 
 export default function App() {
   return (
     <>
-      <Login />
+      <Routes />
 
       <GlobalStyle />
     </>
