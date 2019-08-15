@@ -9,7 +9,7 @@ A proposta objetivo desse projeto foi criar uma "versão" do tinder para desenvo
 Instalação
 -----
 
-* **Pre-requisitos:** Antes de todo, é para rodar esse projeto necessario que você já tenha o [node js](https://nodejs.org/en/), e o [yarn](https://yarnpkg.com/pt-BR/) instalados. Também é preciso que esteja configurado e rodando a [API](https://github.com/goncadanilo/omnistack-8-tindev-api) desse projeto.
+* **Pre-requisitos:** Antes de todo, para rodar esse projeto é necessario que você já tenha o [node js](https://nodejs.org/en/), e o [yarn](https://yarnpkg.com/pt-BR/) instalados. Também é preciso que esteja configurado e rodando a [API](https://github.com/goncadanilo/omnistack-8-tindev-api) desse projeto.
 
 * **Clone:** Para clonar o repositório use o seguinte comando.
 ```
